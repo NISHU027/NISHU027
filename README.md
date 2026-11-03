@@ -1,16 +1,26 @@
-## Hi there 👋
+# Nishu
 
-<!--
-**NISHU027/NISHU027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cybersecurity enthusiast | Aspiring security engineer**
 
-Here are some ideas to get you started:
+I’m a B.Tech student in Electronics & Computer Science, interested in cybersecurity, network security, and applying AI/ML to threat detection.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+Cybersecurity · Network security · AI/ML threat detection
+
+## Tools & technologies
+
+Python · C · Linux · Kali Linux · Wireshark · Zeek · Burp Suite · Git · GitHub · VS Code
+
+## Featured projects
+
+- [AI Unidirectional Threat Detection](https://github.com/NISHU027/ai-unidirectional-threat-detection) — Passive network threat detection using Zeek, traffic analysis, and machine learning.
+- **RF Sentinel** — RF activity monitoring and anomaly detection.
+
+## Currently learning
+
+Network security, practical security testing, and AI/ML methods for threat detection.
+
+## Contact
+
+Reach me through [GitHub](https://github.com/NISHU027).
